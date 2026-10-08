@@ -1,0 +1,16 @@
+# 虚拟环境
+.venv/
+venv/
+
+# Python缓存文件
+__pycache__/
+*.pyc
+
+# VSCode配置文件夹
+.vscode/
+
+# 环境变量密钥文件
+.env
+
+# 日志文件
+*.log
